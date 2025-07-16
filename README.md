@@ -46,7 +46,8 @@
 - Hide ads
 - Sanitize sharing links
 
-## Supports
+## <img width="192" height="192" alt="1000007722" src="https://github.com/user-attachments/assets/18b9d3b4-d746-401c-b714-384215430e70" />
+Supports
 [![Discord Server](https://img.shields.io/badge/Join-Discord-5865F2.svg?logo=discord)](https://discord.gg/QWUrAA2mKq)
 or [Create an issue](https://github.com/chsbuffer/ReVancedXposed/issues/new)
 
